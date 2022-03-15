@@ -1,1 +1,10 @@
 /* Navbar */
+
+
+/* Card About Me  */
+.card {
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;
+};
